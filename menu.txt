@@ -2,3 +2,5 @@ beef
 rice
 fish
 meat
+beans
+amala
