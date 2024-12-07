@@ -3,3 +3,5 @@ maths
 science
 technology
 french
+spanish
+elecrticity

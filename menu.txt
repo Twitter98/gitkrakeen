@@ -5,3 +5,6 @@ meat
 beans
 amala
 pork
+bread
+salad
+coffee
