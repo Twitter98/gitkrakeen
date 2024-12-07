@@ -3,3 +3,4 @@ maths
 science
 technology
 french
+spanish
