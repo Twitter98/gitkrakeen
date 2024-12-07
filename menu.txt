@@ -6,3 +6,4 @@ beans
 amala
 pork
 bread
+salad
