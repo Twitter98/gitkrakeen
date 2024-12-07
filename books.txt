@@ -5,3 +5,5 @@ technology
 french
 spanish
 elecrticity
+igbo
+yoruba
