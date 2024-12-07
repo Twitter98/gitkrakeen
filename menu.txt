@@ -7,3 +7,14 @@ amala
 pork
 another line of development
 after merging
+sausage
+Potatoes
+Banana
+beef
+rice
+fish
+meat
+beans
+amala
+pork
+after merging
