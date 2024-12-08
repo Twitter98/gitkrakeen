@@ -2,4 +2,3 @@ physics
 maths
 science
 technology
-french
