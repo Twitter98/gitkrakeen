@@ -3,7 +3,3 @@ maths
 science
 technology
 french
-spanish
-elecrticity
-igbo
-yoruba
